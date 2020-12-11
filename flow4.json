@@ -1,0 +1,1 @@
+[{"id":"fdd986a.dd9e478","type":"http in","z":"9506bed6.24dda","name":"","url":"/pin4","method":"get","upload":false,"swaggerDoc":"","x":90,"y":180,"wires":[["2afbd0b5.b8291"]]}]
